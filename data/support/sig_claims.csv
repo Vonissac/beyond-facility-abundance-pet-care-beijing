@@ -1,0 +1,4 @@
+claim,grade,evidence,risk
+signature_formation_is_predictable_beyond_simple_counts,C,best_spatial_block_balanced_accuracy=0.4569,"Predictability is not causality; model explains signature classification, not business entry decisions."
+formation_rules_are_not_only_housing_or_service_density,A-candidate,"top_features=daily_life_buffer_1p0km_pct, lat_center, health_care_buffer_1p0km_pct, lon_center","If service_density dominates all rules, contribution collapses toward generic service abundance."
+bundled_signature_differs_from_ordinary_service_rich_areas,A-candidate,daily_life_diff=0.1212; elder_diff=0.3433,Need visual and POI face-validity checks for representative rules.

@@ -1,0 +1,18 @@
+Quality check,Domain / rule,Tier,Confidence,Excluded or flagged,Count
+Raw total rows,All POI,—,—,—,"1,151,878"
+Raw unique IDs,All POI,—,—,—,"1,151,878"
+Duplicate-ID rows,All POI,—,—,—,0
+Missing/invalid WGS84 rows,All POI,—,—,—,0
+Candidate domain rows,All candidate domains,—,—,—,"422,462"
+Candidate rule count,Pet care / pet_structured_medical,Strict,High,No,"1,088"
+Candidate rule count,Pet care / pet_structured_retail,Strict,High,No,"2,496"
+Candidate rule count,Pet care / pet_name_service,Expanded,Medium,No,203
+Candidate rule count,Pet care / pet_name_weak,Expanded,Low,No,151
+Candidate rule count,Pet care / pet_name_weak,Expanded,Low,Yes,229
+Candidate rule count,Health care / health_structured,Strict,High,No,"21,952"
+Candidate rule count,Transit / transit_station_stop,Strict,High,No,"18,700"
+Candidate rule count,Recreation / recreation_structured,Strict,High,No,"21,673"
+Candidate rule count,Daily life / daily_retail_structured,Strict,High,No,"36,079"
+Candidate rule count,Daily life / daily_service_structured,Strict,High,No,"17,417"
+Candidate rule count,Education-child / education_formal_school,Strict,High,No,"6,900"
+Candidate rule count,Elder care / elder_name_or_care_category,Strict,High,No,"2,064"

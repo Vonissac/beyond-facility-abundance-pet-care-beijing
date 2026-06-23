@@ -1,0 +1,5 @@
+Context,Tests,Positive excess tests,Above q97.5 tests,Minimum O/E,Median O/E,Maximum O/E,Minimum margin over q97.5
+All observed grids,10,10,10,1.189,1.324,1.474,107.0
+Daily-life-rich non-elite,10,10,10,1.129,1.250,2.126,49.0
+Non-elite,10,10,10,1.230,1.363,1.556,99.0
+Population-dense,10,10,10,1.135,1.205,1.601,69.0

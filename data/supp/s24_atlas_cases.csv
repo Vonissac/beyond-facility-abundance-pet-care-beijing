@@ -1,0 +1,6 @@
+Signature,Representative grids,Mean population,Mean pet retail pct,Mean pet medical pct,Mean daily-life pct,Mean health pct,Nearby pet retail,Nearby pet medical,Nearby daily life,Nearby health
+Bundled pet-service maturity,8,"11,841.1",0.983,0.986,0.992,0.990,91,53,"1,558",877
+Retail-only absorption,8,"6,860.2",0.952,0.000,0.960,0.930,69,0,842,211
+Medical-only professionalization,8,"6,692.6",0.000,0.926,0.904,0.927,0,19,377,193
+Ordinary service-rich non-pet,8,"5,713.9",0.000,0.000,0.923,0.927,0,0,541,222
+Low pet-serviceization,8,932.0,0.000,0.000,0.000,0.069,0,0,0,1

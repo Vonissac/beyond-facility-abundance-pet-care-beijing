@@ -1,0 +1,4 @@
+Model,BA stratified,BA spatial,BA spatial penalty,Macro F1 stratified,Macro F1 spatial,Macro F1 penalty,Weighted F1 spatial
+Balanced random forest,0.508,0.457,-0.051,0.449,0.413,-0.035,0.727
+Histogram gradient boosting,0.424,0.405,-0.019,0.433,0.406,-0.027,0.786
+Shallow surrogate tree,0.468,0.426,-0.042,0.410,0.372,-0.038,0.621

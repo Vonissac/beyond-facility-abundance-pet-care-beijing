@@ -1,0 +1,3 @@
+Component,Reproduction routine,Random seed,Permutation draws,Contexts,Thresholds,Pairs,Test rows,Pet rows above q97.5,Minimum pet O/E
+Base CCEM,Base CCEM reproduction routine,20260609,"5,000",4,"0.70, 0.80, 0.90",8,96,12/12,1.114
+Spatially constrained CCEM,Spatial CCEM reproduction routine,20260609,"2,000",4,"0.80, 0.90",6,240,40/40,1.129

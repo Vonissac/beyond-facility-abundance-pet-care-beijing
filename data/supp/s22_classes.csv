@@ -1,0 +1,6 @@
+Signature class,Precision,Recall,F1,Support
+Low pet-serviceization,0.955,0.743,0.836,7718
+Mixed or mid-level,0.160,0.324,0.214,958
+Retail-only absorption,0.192,0.329,0.242,447
+Medical-only professionalization,0.037,0.076,0.049,198
+Bundled pet-service maturity,0.656,0.813,0.726,823

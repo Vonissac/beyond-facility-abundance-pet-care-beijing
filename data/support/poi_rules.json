@@ -1,0 +1,18 @@
+{
+  "version": "v1",
+  "domains": [
+    "pet_care",
+    "education_child",
+    "elder_care",
+    "health_care",
+    "transit",
+    "recreation_park_sport",
+    "daily_life"
+  ],
+  "principles": [
+    "POI categories are facility opportunity proxies, not demand or quality.",
+    "Pet care is the primary lens, but strict and expanded tiers remain separate.",
+    "Generic keyword hits must not become main evidence without validation.",
+    "Address-only and generic service layers are excluded or flagged."
+  ]
+}

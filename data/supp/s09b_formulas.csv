@@ -1,0 +1,13 @@
+Symbol / term,Definition,Use in manuscript
+P_d,POI set assigned to domain d,Domain-specific POI construction
+p,Individual POI,POI-to-grid assignment
+g_i,Grid footprint for grid i,Spatial unit definition
+I(.),Indicator function,Threshold and membership operations
+F_d(.),Empirical cumulative distribution function of C_id across usable grids,Percentile transformation of domain opportunity
+τ,High-opportunity threshold,"Main tables use τ = 0.80; sensitivity tables use τ = 0.70, 0.80 and 0.90"
+s(i),Matched-stratum assignment,Within-stratum counterfactual permutation
+H_ib^(r),Permuted high-status indicator for domain b in permutation draw r,CCEM null construction
+R,Number of within-stratum permutation draws,"5,000 draws in the base CCEM and 2,000 draws in the spatially constrained CCEM; seed-sensitivity checks use 1,000-draw runs"
+Q_0.975(.),97.5% permutation quantile operator,Upper-tail null threshold used to calculate stress margin
+z_i,Predictor vector excluding the pet-retail and pet-medical variables used to define the with-pet typology,DSSM / recoverability modelling
+"K, TP_k, FN_k, P_k, R_k",Class-count and classification-metric terms for balanced accuracy and macro F1,Model evaluation; R_k is recall and should not be confused with R permutation draws

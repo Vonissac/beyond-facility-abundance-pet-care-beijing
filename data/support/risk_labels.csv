@@ -1,0 +1,15 @@
+poi_layer,suspected_risk,validation_label_norm,labeled_rows,correct_rows,too_ambiguous_rows,wrong_layer_rows,rejected_or_duplicate_rows,high_confidence_validator_a_rows,high_confidence_validator_b_rows,precision_correct,weak_or_error_rate,high_confidence_validator_a_share,high_confidence_validator_b_share
+elder_care,elder_name_weak | elder_type_proxy_risk,too_ambiguous,5,0,5,0,0,0,0,0.0,1.0,0.0,0.0
+elder_care,elder_name_weak | elder_type_proxy_risk,wrong_layer,1,0,0,1,0,0,0,0.0,1.0,0.0,0.0
+elder_care,elder_type_proxy_risk,too_ambiguous,47,0,47,0,0,0,0,0.0,1.0,0.0,0.0
+elder_care,elder_type_proxy_risk,wrong_layer,1,0,0,1,0,0,0,0.0,1.0,0.0,0.0
+elder_care,none,correct,19,19,0,0,0,19,19,1.0,0.0,1.0,1.0
+elder_care,none,too_ambiguous,2,0,2,0,0,0,0,0.0,1.0,0.0,0.0
+pet_medical,medical_vs_grooming_possible_confusion,correct,1,1,0,0,0,0,0,1.0,0.0,0.0,0.0
+pet_medical,none,correct,55,55,0,0,0,54,54,1.0,0.0,0.9818181818181818,0.9818181818181818
+pet_medical,pet_medical_name_weak,too_ambiguous,1,0,1,0,0,0,0,0.0,1.0,0.0,0.0
+pet_medical,pet_medical_name_weak | medical_vs_grooming_possible_confusion,correct,1,1,0,0,0,0,0,1.0,0.0,0.0,0.0
+pet_retail,none,correct,61,61,0,0,0,61,61,1.0,0.0,1.0,1.0
+pet_retail,none,too_ambiguous,1,0,1,0,0,0,0,0.0,1.0,0.0,0.0
+pet_retail,pet_retail_name_weak,correct,3,3,0,0,0,3,3,1.0,0.0,1.0,1.0
+pet_retail,pet_retail_name_weak,too_ambiguous,11,0,11,0,0,0,0,0.0,1.0,0.0,0.0

@@ -1,0 +1,6 @@
+Signature label,Grids,Population share,Mean daily-life pct,Mean health pct,Mean service-density pct,Non-elite rate,Analytical role
+Bundled pet-service maturity,823,40.4%,0.942,0.945,0.935,84.8%,Core coupled companion-animal service signature.
+Low pet-serviceization,"7,718",29.4%,0.364,0.264,0.454,99.7%,Low companion-animal facility-opportunity baseline.
+Mixed or mid-level pet-serviceization,958,15.1%,0.726,0.649,0.716,96.0%,Intermediate residual class used for model diagnostics.
+Retail-only absorption,447,11.1%,0.849,0.814,0.821,91.1%,Routine commercial pet-service absorption without equally strong veterinary concentration.
+Medical-only professionalization,198,4.0%,0.787,0.762,0.766,93.4%,Professionalized veterinary concentration without equally strong retail concentration.

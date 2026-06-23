@@ -1,0 +1,9 @@
+validation_unit,sample_or_tasks,primary_metric,value,boundary_metric,boundary_value,claim_implication
+POI layer: elder_care,75,precision_correct,0.253,weak_or_error_rate,0.747,demote to fragile contextual proxy after high-risk review
+POI layer: pet_medical,58,precision_correct,0.983,weak_or_error_rate,0.017,strong validation support for pet medical subtype
+POI layer: pet_retail,76,precision_correct,0.842,weak_or_error_rate,0.158,supportive but caveated validation for pet retail subtype
+Grid signature: bundled_pet_service_maturity,8,support_or_partial_rate,1.0,full_support_rate,1.0,representative-grid face-validity support; not demand/use/quality evidence
+Grid signature: low_pet_serviceization,8,support_or_partial_rate,1.0,full_support_rate,1.0,representative-grid face-validity support; not demand/use/quality evidence
+Grid signature: medical_only_professionalization,8,support_or_partial_rate,1.0,full_support_rate,1.0,representative-grid face-validity support; not demand/use/quality evidence
+Grid signature: ordinary_service_rich_non_pet,8,support_or_partial_rate,1.0,full_support_rate,0.0,representative-grid face-validity support; not demand/use/quality evidence
+Grid signature: retail_only_absorption,8,support_or_partial_rate,1.0,full_support_rate,1.0,representative-grid face-validity support; not demand/use/quality evidence

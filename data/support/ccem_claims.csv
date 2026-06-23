@@ -1,0 +1,6 @@
+claim,grade,thresholds_positive,thresholds_above_permutation_975,mean_excess_ratio,interpretation
+pet_retail_medical_coupling_excess_stable__all_observed,A-candidate,3.0,3.0,1.2407323485103063,Tests whether bundled pet-service maturity survives threshold changes within matched urban context strata.
+pet_retail_medical_coupling_excess_stable__daily_life_top_non_elite,A-candidate,3.0,3.0,1.2361279602497262,Tests whether bundled pet-service maturity survives threshold changes within matched urban context strata.
+pet_retail_medical_coupling_excess_stable__non_elite,A-candidate,3.0,3.0,1.2604356138593609,Tests whether bundled pet-service maturity survives threshold changes within matched urban context strata.
+pet_retail_medical_coupling_excess_stable__population_dense,A-candidate,3.0,3.0,1.219564478484408,Tests whether bundled pet-service maturity survives threshold changes within matched urban context strata.
+pet_coupling_specificity_against_other_service_pairs,A-candidate,,,1.2231109809371872,"At threshold 0.8, pet pair ranks top-2 by excess ratio in 4/4 contexts."

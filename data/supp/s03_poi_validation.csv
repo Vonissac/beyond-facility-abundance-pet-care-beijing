@@ -1,0 +1,4 @@
+POI layer,Labeled rows,Correct rows,Too ambiguous,Wrong layer,Rejected/duplicate,Precision,Weak/error rate,Interpretation
+Pet medical,58,57,1,0,0,0.983,0.017,Strong validation support for pet-medical subtype
+Pet retail,76,64,12,0,0,0.842,0.158,Supportive but caveated validation for pet-retail subtype
+Elder care,75,19,54,2,0,0.253,0.747,Demoted to fragile contextual proxy

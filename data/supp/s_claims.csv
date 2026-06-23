@@ -1,0 +1,10 @@
+Evidence area,Evidence source,Supported interpretation,Interpretation limit
+Pet retail–medical coupling,CCEM pair tests and threshold sensitivity,Pet retail and pet medical services co-locate above matched expectations.,The evidence does not show that pet services meet demand or improve welfare.
+Common pet-demand boundary,Design limitation and interpretation rule,The matched design identifies co-location beyond conventional urban context.,The analysis cannot separate service-system bundling from shared unobserved pet ownership or household pet demand.
+Benchmark specificity,Specificity-index and spatial-rank tables,Non-spatial specificity is consistently benchmark-leading; spatial specificity is strong but not universal.,The pet coupling is not interpreted as always the strongest service-pair relationship.
+Spatial robustness,40 spatial tests,Coupling remains above the upper-tail null threshold in all 40 spatial tests.,"Spatial tests reduce, but do not eliminate, spatial confounding."
+Pet-medical classification,Manual validation,The pet-medical POI layer is strongly validated.,The layer is not a complete census of veterinary care.
+Pet-retail classification,Manual validation,The pet-retail layer is supportive but caveated.,The layer is not treated as perfectly classified.
+Elder-care layer,Manual validation,Elder-care POI is too fragile for main empirical claims.,The elder-care layer is not used to support a substantive all-age care contrast.
+Local signatures,Rule-selected panels and validation,Local panels support face validity of diagnostic signatures.,"Local panels do not prove use, demand, quality or accessibility."
+Recoverability model,Spatial-block model metrics,Conventional variables partially recover the with-pet typology.,The model is not interpreted as strongly predicting or validating all signature classes.

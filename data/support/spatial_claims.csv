@@ -1,0 +1,6 @@
+claim,grade,evidence,risk
+spatially_constrained_pet_coupling__all_observed,A-candidate,10/10 tests above permutation 97.5%; min_ratio=1.189,"Still observational: controls spatial/context strata, not demand or business entry mechanisms."
+spatially_constrained_pet_coupling__daily_life_top_non_elite,A-candidate,10/10 tests above permutation 97.5%; min_ratio=1.129,"Still observational: controls spatial/context strata, not demand or business entry mechanisms."
+spatially_constrained_pet_coupling__non_elite,A-candidate,10/10 tests above permutation 97.5%; min_ratio=1.230,"Still observational: controls spatial/context strata, not demand or business entry mechanisms."
+spatially_constrained_pet_coupling__population_dense,A-candidate,10/10 tests above permutation 97.5%; min_ratio=1.135,"Still observational: controls spatial/context strata, not demand or business entry mechanisms."
+pet_coupling_specificity_survives_spatial_constraints,A-candidate,pet pair ranks #1 in 90.0% of context-strata-threshold tests,Specificity is benchmark-relative; adding more benchmark pairs may change rank.

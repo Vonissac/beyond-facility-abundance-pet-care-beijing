@@ -1,0 +1,6 @@
+Specification,Matching variables,Binning,Analysis grids before small-strata exclusion,Strata,Min size,Median size,Max size,Singleton strata,Small-strata handling
+base_context_q4,"population, housing price, daily-life opportunity, service density",rank-based q4,"10,144",222,1,14.5,"1,010",25,Strata with n < 4 are excluded from permutation shuffling
+no_service_density_q4,"population, housing price, daily-life opportunity",rank-based q4,"10,144",64,2,78.0,"1,028",0,Strata with n < 4 are excluded from permutation shuffling
+socio_spatial_q4,"population, housing price, longitude, latitude",rank-based q4,"10,144",240,1,25.5,518,5,Strata with n < 4 are excluded from permutation shuffling
+base_plus_spatial_q4,"population, housing price, daily-life opportunity, service density, longitude, latitude",rank-based q4,"10,144","1,709",1,2.0,501,604,Strata with n < 4 are excluded from permutation shuffling
+fine_base_context_q5,"population, housing price, daily-life opportunity, service density",rank-based q5,"10,144",445,1,8.0,921,76,Strata with n < 4 are excluded from permutation shuffling

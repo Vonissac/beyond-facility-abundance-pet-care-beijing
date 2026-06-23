@@ -1,0 +1,6 @@
+,pred_low_pet_serviceization,pred_mixed_or_midlevel,pred_retail_only_absorption,pred_medical_only_professionalization,pred_bundled_pet_service_maturity
+true_low_pet_serviceization,5736,1435,264,236,47
+true_mixed_or_midlevel,222,310,194,100,132
+true_retail_only_absorption,20,110,147,37,133
+true_medical_only_professionalization,30,63,51,15,39
+true_bundled_pet_service_maturity,0,23,110,21,669

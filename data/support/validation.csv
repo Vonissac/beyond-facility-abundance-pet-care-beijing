@@ -1,0 +1,4 @@
+unit,total_rows,labeled_rows,completion_rate
+core_poi_validation_after_high_risk_override,209,209,1.0
+grid_signature_validation,40,40,1.0
+context_layer_spotcheck,68,68,1.0

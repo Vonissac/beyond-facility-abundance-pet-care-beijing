@@ -1,0 +1,6 @@
+specification,matching_variables,binning,usable_grids,strata,min_size,median_size,max_size,singleton_strata,small_strata_handling
+base_context_q4,population_pct; housing_price_pct; daily_life_buffer_1p0km_pct; service_density_pct,rank-based q4,10144,222,1,14.5,1010,25,strata with n < 4 are excluded from permutation shuffling
+no_service_density_q4,population_pct; housing_price_pct; daily_life_buffer_1p0km_pct,rank-based q4,10144,64,2,78.0,1028,0,strata with n < 4 are excluded from permutation shuffling
+socio_spatial_q4,population_pct; housing_price_pct; lon_center; lat_center,rank-based q4,10144,240,1,25.5,518,5,strata with n < 4 are excluded from permutation shuffling
+base_plus_spatial_q4,population_pct; housing_price_pct; daily_life_buffer_1p0km_pct; service_density_pct; lon_center; lat_center,rank-based q4,10144,1709,1,2.0,501,604,strata with n < 4 are excluded from permutation shuffling
+fine_base_context_q5,population_pct; housing_price_pct; daily_life_buffer_1p0km_pct; service_density_pct,rank-based q5,10144,445,1,8.0,921,76,strata with n < 4 are excluded from permutation shuffling

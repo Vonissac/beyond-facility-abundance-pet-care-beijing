@@ -1,0 +1,17 @@
+item,result
+Raw coordinate system,GCJ-02 retained with WGS84 fields in raw POI files
+Working coordinate fields,WGS84 longitude/latitude fields
+Working grid,Approximate 1-km lon/lat grid at Beijing latitude
+Raw POI files,23
+Raw POI rows,1151878
+Rows with valid GCJ-02 coordinates,1151878
+Rows with valid WGS84 coordinates,1151878
+Invalid/missing WGS84 coordinate rows,0
+"Mean GCJ-02 to WGS84 offset in raw fields, m",539.0331345821402
+"Median GCJ-02 to WGS84 offset in raw fields, m",540.0811515522423
+"Mean formula-converted WGS84 residual, m",0.0011186222275718137
+"Median formula-converted WGS84 residual, m",1.2097552950948201e-09
+"Changed 1-km grid if GCJ-02 used instead of WGS84, %",58.78608672098955
+"POI within 50 m of 1-km grid boundary, %",18.54432500664133
+"POI within 100 m of 1-km grid boundary, %",35.591269214274426
+Interpretation,Coordinate handling does not materially affect city-scale grid-level conclusions; WGS84 fields are used for all analysis.

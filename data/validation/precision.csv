@@ -1,0 +1,4 @@
+poi_layer,labeled_rows,correct_rows,too_ambiguous_rows,wrong_layer_rows,rejected_or_duplicate_rows,high_confidence_validator_a_rows,high_confidence_validator_b_rows,precision_correct,weak_or_error_rate,high_confidence_validator_a_share,high_confidence_validator_b_share
+elder_care,75,19,54,2,0,19,19,0.25333333333333335,0.7466666666666667,0.25333333333333335,0.25333333333333335
+pet_medical,58,57,1,0,0,54,54,0.9827586206896551,0.017241379310344827,0.9310344827586207,0.9310344827586207
+pet_retail,76,64,12,0,0,64,64,0.8421052631578947,0.15789473684210525,0.8421052631578947,0.8421052631578947

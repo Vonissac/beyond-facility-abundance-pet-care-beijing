@@ -1,0 +1,4 @@
+Diagnostic test,Contrast,Key result,What it supports,Boundary handled
+Typology conservation,Conventional vs with-pet classification,ARI = 0.755; NMI = 0.731,Adding the pet layer refines rather than randomly overturns the conventional typology.,"The pet layer is a diagnostic refinement, not a replacement for all-age indicators."
+Countercase visibility,With-pet diagnostic bridge,185 core mismatch grids; 115 countercase grids,The diagnostic layer surfaces a bounded set of cases that conventional indicators compress.,"These are facility-opportunity cases, not measured demand or welfare outcomes."
+Conventional-context recoverability,Spatial-block balanced random forest,BA = 0.457; macro F1 = 0.413; bundled F1 = 0.726; medical-only F1 = 0.049,Conventional variables recover part of the structure but do not fully reproduce the with-pet typology.,Weak minority-class recovery is treated as a boundary condition.

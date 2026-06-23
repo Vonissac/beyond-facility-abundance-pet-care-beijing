@@ -1,0 +1,15 @@
+Quality check,Result
+Raw coordinate system,GCJ-02 retained with WGS84 fields in raw POI files
+Working coordinate fields,WGS84 longitude/latitude fields
+Working grid,Approximate 1-km lon/lat grid at Beijing latitude
+Raw POI files,23
+Raw POI rows,"1,151,878"
+Rows with valid GCJ-02 coordinates,"1,151,878"
+Rows with valid WGS84 coordinates,"1,151,878"
+Invalid/missing WGS84 coordinate rows,0
+Mean GCJ-02 to WGS84 offset in raw fields,539.0 m
+Median GCJ-02 to WGS84 offset in raw fields,540.1 m
+Mean formula-converted WGS84 residual,0.001 m
+Changed 1-km grid if GCJ-02 used instead of WGS84,58.8%
+POI within 50 m of 1-km grid boundary,18.5%
+POI within 100 m of 1-km grid boundary,35.6%

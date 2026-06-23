@@ -1,0 +1,6 @@
+Signature class,Validation tasks,Expected validation pattern
+Bundled pet-service maturity,8,"Both pet retail and pet medical should be visible within 1 km, alongside daily-life and health-care context."
+Low pet-serviceization,8,No pet retail or pet medical examples should appear in sampled evidence.
+Medical-only professionalization,8,"Pet medical should be visible, while pet retail should remain absent or weak."
+Ordinary service-rich non-pet,8,Service-rich context should have no obvious pet retail or pet medical examples in sampled 1-km POI evidence.
+Retail-only absorption,8,"Pet retail should be visible, while pet medical should remain absent or weak."

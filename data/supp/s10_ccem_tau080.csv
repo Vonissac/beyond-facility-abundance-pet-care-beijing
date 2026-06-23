@@ -1,0 +1,5 @@
+Context,τ,Observed O,Expected E,Δ = O − E,ρ = O / E,z,Null 95% interval,M over q97.5,Exposed population share
+All observed grids,0.80,823,674.3,148.7,1.220,7.92,"[657.0, 693.0]",130.0,40.4%
+Daily-life-rich non-elite,0.80,680,583.0,97.0,1.166,6.96,"[569.0, 597.0]",83.0,52.3%
+Non-elite,0.80,698,553.8,144.2,1.260,8.31,"[536.0, 571.0]",127.0,37.1%
+Population-dense,0.80,780,677.2,102.8,1.152,6.30,"[662.0, 693.0]",87.0,45.0%

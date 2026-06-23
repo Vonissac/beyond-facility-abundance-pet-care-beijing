@@ -1,0 +1,6 @@
+signature_label,labeled_grid_tasks,fully_supported_tasks,supported_or_partial_tasks,annotator_agreement_rate,full_support_rate,support_or_partial_rate
+bundled_pet_service_maturity,8,8,8,1.0,1.0,1.0
+low_pet_serviceization,8,8,8,1.0,1.0,1.0
+medical_only_professionalization,8,8,8,1.0,1.0,1.0
+ordinary_service_rich_non_pet,8,0,8,1.0,0.0,1.0
+retail_only_absorption,8,8,8,1.0,1.0,1.0

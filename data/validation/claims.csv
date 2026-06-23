@@ -1,0 +1,5 @@
+claim,manual_validation_result,observed_evidence,manuscript_action
+pet_retail_medical_bundled_signature,B-supported with validation caveats,pet_retail_precision=0.842; pet_medical_precision=0.983; bundled_grid_support_or_partial=1.000,"Retain core coupling claim, but say validated facility-opportunity proxy; do not claim demand/use/quality."
+elder_care_as_formal_care_contrast,D-demote from core contrast,elder_care_precision=0.253,Demote elder care from formal-care contrast to fragile contextual proxy/sensitivity layer.
+ordinary_service_rich_non_pet_countercase,B-supported countercase,ordinary_service_rich_non_pet_grid_support_or_partial=1.000,Retain as validated countercase if wording stays at opportunity-signature level.
+context_layers_support_local_face_validity,"supportive spotcheck, not POI precision",mean_context_support_or_partial=1.000,Use as supplementary face-validity evidence; do not convert to demand or quality claim.

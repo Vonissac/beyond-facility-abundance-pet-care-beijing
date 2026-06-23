@@ -1,0 +1,6 @@
+signature_label,representative_grids,mean_population,mean_pet_retail_pct,mean_pet_medical_pct,mean_elder_pct,mean_daily_life_pct,mean_health_pct,nearby_pet_retail_count,nearby_pet_medical_count,nearby_elder_count,nearby_daily_life_count,nearby_health_count,face_validity_note
+bundled_pet_service_maturity,8,11841.056518554688,0.9830055210489992,0.9858523119392684,0.9575302223349396,0.9918632175162736,0.9900033815199931,91.0,53.0,46.0,1558.0,877.0,pass
+low_pet_serviceization,8,932.0195293426514,0.0,0.0,0.0,0.0,0.0691309493617381,0.0,0.0,0.0,0.0,1.0,pass
+medical_only_professionalization,8,6692.58154296875,0.0,0.9263777974958098,0.7883908191732183,0.9038063234423873,0.9272022148955956,0.0,19.0,22.0,377.0,193.0,pass
+ordinary_service_rich_non_pet,8,5713.938781738281,0.0,0.0,0.7429939132640121,0.9224997886550005,0.9274241271451518,0.0,0.0,13.0,541.0,222.0,pass
+retail_only_absorption,8,6860.190002441406,0.9521960958296363,0.0,0.6515449319469101,0.960087496829825,0.930393524389213,69.0,0.0,11.0,842.0,211.0,pass

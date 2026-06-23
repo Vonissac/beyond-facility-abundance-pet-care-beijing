@@ -1,0 +1,11 @@
+Feature,RF Gini importance,Permutation importance mean,Permutation importance SD
+Daily-life opportunity,0.202,0.147,0.005
+Latitude,0.080,0.090,0.005
+Health-care opportunity,0.177,0.087,0.004
+Longitude,0.064,0.073,0.005
+Service density,0.119,0.055,0.004
+Transit opportunity,0.055,0.049,0.004
+Population exposure,0.075,0.045,0.004
+Recreation/park/sport opportunity,0.109,0.043,0.003
+Education/child opportunity,0.060,0.042,0.004
+Housing-price rank,0.049,0.016,0.002

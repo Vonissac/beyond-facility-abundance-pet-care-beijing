@@ -1,0 +1,11 @@
+name: all-age-care-opportunity-reproducibility
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.9,<3.12
+  - numpy>=1.23,<2.0
+  - pandas>=1.5,<2.3
+  - matplotlib>=3.4,<3.10
+  - scikit-learn>=1.0,<1.6
+  - shap>=0.41,<0.47
+  - pillow>=9.0,<11.0

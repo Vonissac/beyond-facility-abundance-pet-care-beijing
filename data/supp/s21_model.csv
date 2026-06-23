@@ -1,0 +1,7 @@
+Model,CV scheme,Balanced accuracy,Macro F1,Weighted F1,Model,CV scheme
+Balanced random forest,Stratified 5-fold,0.508,0.449,0.742,Balanced random forest,Stratified 5-fold
+Balanced random forest,Spatial-block 5-fold,0.457,0.413,0.727,Balanced random forest,Spatial-block 5-fold
+Histogram gradient boosting,Stratified 5-fold,0.424,0.433,0.798,Histogram gradient boosting,Stratified 5-fold
+Histogram gradient boosting,Spatial-block 5-fold,0.405,0.406,0.786,Histogram gradient boosting,Spatial-block 5-fold
+Shallow surrogate tree,Stratified 5-fold,0.468,0.410,0.683,Shallow surrogate tree,Stratified 5-fold
+Shallow surrogate tree,Spatial-block 5-fold,0.426,0.372,0.621,Shallow surrogate tree,Spatial-block 5-fold

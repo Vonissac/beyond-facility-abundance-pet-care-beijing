@@ -1,0 +1,7 @@
+Signature label,Assignment rule,Interpretive label,Analytical role
+bundled_pet_service_maturity,pet_retail_buffer_1p0km_pct ≥ 0.80 and pet_medical_buffer_1p0km_pct ≥ 0.80,Bundled pet-service maturity,Core coupled companion-animal service signature.
+retail_only_absorption,pet_retail_buffer_1p0km_pct ≥ 0.80 and pet_medical_buffer_1p0km_pct ≤ 0.25,Retail-only absorption,Routine commercial pet-service absorption without equally strong veterinary concentration.
+medical_only_professionalization,pet_medical_buffer_1p0km_pct ≥ 0.80 and pet_retail_buffer_1p0km_pct ≤ 0.25,Medical-only professionalization,Professionalized veterinary concentration without equally strong retail concentration.
+ordinary_service_rich_non_pet,"service_density_pct ≥ 0.80, daily_life_buffer_1p0km_pct ≥ 0.80, health_care_buffer_1p0km_pct ≥ 0.80, and both pet subtypes ≤ 0.25",Ordinary service-rich non-pet countercase,Negative control showing that service-rich areas do not automatically become pet-service bundles.
+low_pet_serviceization,"Both pet subtypes ≤ 0.25, unless overwritten by ordinary_service_rich_non_pet in the representative atlas.",Low pet-serviceization,Low companion-animal facility-opportunity baseline.
+mixed_or_midlevel,All remaining observed grids in the five-class signature model.,Mixed or mid-level pet-serviceization,"Intermediate residual class used for model diagnostics, not emphasized as a main manuscript signature."
